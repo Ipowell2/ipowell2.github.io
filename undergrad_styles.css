@@ -37,3 +37,10 @@ a {
  h3 {
    font-size: 25px;
  }
+
+ footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #333;
+    color: white;
+  }
