@@ -45,3 +45,7 @@ a {
     background-color: #D3D3D3;
     color: white;
   }
+
+  p {
+    text-align: center;
+  }
