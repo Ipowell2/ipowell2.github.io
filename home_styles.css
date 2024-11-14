@@ -35,4 +35,11 @@
     text-decoration: none;
   }
 
+  footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 3px;
+  }
+
   
