@@ -21,3 +21,19 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
+a {
+    text-decoration: none;
+  }
+      
+ h2 {
+   color: #fdb515;
+ }
+      
+ h1 {
+   color: #da2128;
+ }
+      
+ h3 {
+   font-size: 20px;
+ }
